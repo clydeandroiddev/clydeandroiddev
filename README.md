@@ -14,5 +14,5 @@ With more than 5 years of experience as a mobile developer, I have developed rob
 
 ### Projects Information
 
-Here are the projects that I have built and maintained all throughout of my professional career.
+You can browse the projects I have created and maintained throughtout my professional career <a href='https://github.com/clydeandroiddev/Mobile-Developer-Portfolio'>here.</a>
 
